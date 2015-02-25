@@ -1,0 +1,5 @@
+.build
+tmp
+*.pdf
+*.svg
+*.bak
